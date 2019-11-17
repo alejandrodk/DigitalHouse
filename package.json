@@ -1,0 +1,24 @@
+{
+  "name": "digitalhouse",
+  "version": "1.0.0",
+  "description": "Proyectos y Ejercicios de la cursada",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejandrodk/DigitalHouse.git"
+  },
+  "author": "Alejandro Barrios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejandrodk/DigitalHouse/issues"
+  },
+  "homepage": "https://github.com/alejandrodk/DigitalHouse#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^7.0.0",
+    "nodemon": "^1.19.4"
+  }
+}
