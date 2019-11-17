@@ -1,0 +1,56 @@
+[
+ {
+  "id": 1,
+  "nombreCliente": "alejandro",
+  "entrega": true,
+  "direccionCliente": "mario bravo 931",
+  "telefonoCliente": "1127508104",
+  "orden": "Mediana",
+  "saborPizza": "Muzza",
+  "bebida": true,
+  "cantidadBebidas": "3",
+  "saborBebida": "Pepsi",
+  "consultaEmpanadas": true,
+  "saboresEmpanadas": [
+   "Carne picante"
+  ],
+  "fecha": "2019-11-4",
+  "hora": "4:59:58 PM",
+  "totalProductos": 397.5,
+  "descuento": 52.5
+ },
+ {
+  "id": 2,
+  "nombreCliente": "otto alejandro",
+  "entrega": true,
+  "direccionCliente": "mexico 923",
+  "telefonoCliente": "1127508104",
+  "orden": "Mediana",
+  "saborPizza": "Napolitana",
+  "bebida": false,
+  "consultaEmpanadas": false,
+  "fecha": "2019-11-4",
+  "hora": "5:00:57 PM",
+  "totalProductos": null,
+  "descuento": null
+ },
+ {
+  "id": 3,
+  "nombreCliente": "alejandro",
+  "entrega": false,
+  "telefonoCliente": "12453678765",
+  "orden": "Grande",
+  "saborPizza": "Fugazzeta",
+  "bebida": true,
+  "cantidadBebidas": "4",
+  "saborBebida": "Fanta",
+  "consultaEmpanadas": true,
+  "saboresEmpanadas": [
+   "Pollo"
+  ],
+  "fecha": "2019-11-7",
+  "hora": "11:40:42 PM",
+  "totalProductos": 522,
+  "descuento": 78
+ }
+]

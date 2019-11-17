@@ -1,0 +1,13 @@
+
+		Cantidad total de pedidos: 3
+        Total facturado por pizzas: 570
+        Total facturado por bebidas: 120
+        Total facturado por Empanadas: 60
+        Total facturado por Delivery: 40
+        Total descontado por Promociones: 198
+        Ganancia neta: 592
+        
+        **************************************************
+
+        RESUMEN DEL DÍA: 10/11/2019
+	
