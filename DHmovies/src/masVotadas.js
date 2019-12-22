@@ -10,12 +10,14 @@ Reseña:  ${pelicula.overview} \n\n`
 // primero mapeamos el array moviesMasVotadas y devolvemos el average de cada objeto que contiene
 // luego al resultado de eso, le hacemos un reduce para sumar todos los averages
 // al resultado de esa operación lo dividimos entre la cantidad de películas que contiene el array original
+
+// math.round para redondear
 let averageProm = moviesMasVotadas.map(average => average.vote_average).reduce((acum,num) => acum + num)/moviesMasVotadas.length;
 
 let masVotadas = {
     titulo: 'Más votadas',
     totalPeliculas: moviesMasVotadas.length,
-    ratingPromedio: averageProm,
+    ratingPromedio: Math.round(averageProm),
     listadoPeliculas: peliculas,
 }
 
